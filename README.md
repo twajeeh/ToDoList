@@ -6,6 +6,7 @@ SQLite Database has been used in the application.
 **BUILD AND RUN **
 
 ->Download the zip file or use git clone to clone the repository.
+
 ->In Android Studio, open the project, build it, and run it.
 
 MainActivity is a single activity.
